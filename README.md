@@ -1,6 +1,7 @@
 # meituan-app
 
 > My supreme Nuxt.js project
+## 基于Vue + Nuxt + Element + Node + MongoDB
 
 ## Build Setup
 
