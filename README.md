@@ -1,7 +1,10 @@
 # meituan-app
 
 > My supreme Nuxt.js project
-## 基于Vue + Nuxt + Element + Node + MongoDB
+## 前端：Nuxt,  Vue, Element
+## 后端：Koa， MongoDB， Redis
+
+服务端渲染，虚拟API
 
 ## Build Setup
 
