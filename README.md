@@ -6,7 +6,7 @@
 
 服务端渲染，虚拟API
 
-## Build Setup
+## Build
 
 ``` bash
 # install dependencies
