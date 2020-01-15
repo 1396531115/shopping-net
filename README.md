@@ -1,8 +1,12 @@
 # meituan-app
 
 > My supreme Nuxt.js project
+## 前端：Nuxt,  Vue, Element
+## 后端：Koa， MongoDB， Redis
 
-## Build Setup
+服务端渲染，虚拟API
+
+## Build
 
 ``` bash
 # install dependencies
