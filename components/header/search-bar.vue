@@ -5,7 +5,7 @@
         <img src="//s0.meituan.net/bs/fe-web-meituan/fa5f0f0/img/logo.png" alt="美团" />
       </el-col>
       <el-col :span="13" class="center">
-        <dic class="wrapper">
+        <div class="wrapper">
           <el-input
             v-model="search"
             placeholder="搜索商家或地点"
@@ -23,7 +23,7 @@
           <dl class="searchList" v-if="isSearchList">
             <dd v-for="(item, index) in searchList" :key="index">{{ item }}</dd>
           </dl>
-        </dic>
+        </div>
         <p class="suggest">
           <a href="#">故宫博物院</a>
           <a href="#">故宫博物院</a>

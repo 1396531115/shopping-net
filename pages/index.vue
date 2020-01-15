@@ -1,7 +1,9 @@
 <template>
   <div class="page-index">
     <el-row>
-      <el-col :span="5">1</el-col>
+      <el-col :span="5">
+        <e-menu></e-menu>
+      </el-col>
       <el-col :span="19">2</el-col>
     </el-row>
     <el-row>
@@ -11,11 +13,11 @@
 </template>
 
 <script>
-import Logo from '~/components/Logo.vue'
+import EMenu from '@/components/index/menu.vue'
 
 export default {
   components: {
-    Logo
+    EMenu
   }
 }
 </script>
