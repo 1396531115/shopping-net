@@ -1,6 +1,11 @@
 # meituan-app
 
-> My supreme Nuxt.js project
+> 这是一个仿美团的网页
+
+#### 采用了Nuxt.js + VUE + Element ui作为构建前段页面的应用框架
+
+#### 采用了Nodejs + Koa + Redis + Mongodb 提供后端数据的CRUD
+
 
 ## Build Setup
 
